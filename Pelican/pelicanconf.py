@@ -1,5 +1,5 @@
 AUTHOR = 'Ata Sattari'
-SITENAME = 'asattari'
+SITENAME = 'ASattari'
 SITEURL = ""
 
 PATH = "content"
@@ -7,6 +7,13 @@ PATH = "content"
 TIMEZONE = 'America/Toronto'
 
 DEFAULT_LANG = 'en'
+THEME = "/home/ata/my_website/pelican-themes/pelican-bootstrap3"
+
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+PLUGIN_PATHS = ['/home/ata/my_website/pelican-plugins'] 
+PLUGINS = ['i18n_subsites']
+
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
