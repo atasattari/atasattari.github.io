@@ -26,9 +26,9 @@ save_as: index.html
             <li> Gave an introductory lecture on statistics for HEP at the 2024 SuperCDMS Annual Meeting.</li>
         </ul>
         <p>
-        Prior to my PhD, I got my BSc in physics at the University of Tehran. My BSc project, supervised by Prof. <a href="https://inspirehep.net/authors/1058807?ui-citation-summary=true" target="_blank">Mahdiyar Noorbala</a>, focused on aspects of N-point functions in quantum mechanics.
+        Before moving to Canad for my PhD, I got my BSc in physics at the University of Tehran. My BSc project, supervised by Prof. <a href="https://inspirehep.net/authors/1058807?ui-citation-summary=true" target="_blank">Mahdiyar Noorbala</a>, focused on aspects of N-point functions in quantum mechanics.
         </p>
-        Before physics, I was a professional swimmer and won multiple national youth tournaments across Iran. I've also been a casual Dota2 esports player, reaching rank 800 in North America during COVID.
+        Before my physics life, I was a professional swimmer and won multiple national youth tournaments across Iran. I has also been an avid Dota2 player for some years and reached rank 800 in North America during COVID.
     </div>
 
 </div>
