@@ -3,6 +3,7 @@ Date: 2024-07-03
 Category: Post
 Tags: Statistics, Data
 Author: Ata Sattari
+status:draft
 Summary: A brief review of Bayesian statistics, computational challenges, and numerical algorithms.
 
 ## Bayesian statistics, computational challenges, and numerical methods

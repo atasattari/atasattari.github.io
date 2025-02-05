@@ -17,9 +17,10 @@ SHOW_ARTICLE_CATEGORY = True
 SHOW_DATE_MODIFIED = True
 # HIDE_SITENAME =True
 # ABOUT_ME = '1232342354353465346'
-BANNER = './content/posts/pictures/image.png'
-BANNER_SUBTITLE = 'This is my subtitle'
+# BANNER = 'atasattari.github.io/content/pictures/Ata_wide.png'
+# BANNER_SUBTITLE = 'This is my subtitle'
 HIDE_SIDEBAR = False
+# BOOTSTRAP_NAVBAR_INVERSE = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -37,10 +38,10 @@ STATIC_PATHS = ['pictures']
 
 # Blogroll
 LINKS = (
-    ("LinkdIN", "www.linkedin.com/in/ata-sattari"),
-    # ("Python.org", "https://www.python.org/"),
-    # ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    # ("You can modify those links in your config file", "#"),
+    ("Linkdin", "https://www.linkedin.com/in/ata-sattari"),
+    ("SuperCDMS", "https://supercdms.slac.stanford.edu/"),
+    ("SNOLAB", "https://www.snolab.ca/"),
+    ("McDonald Institute", "https://mcdonaldinstitute.ca/"),
 )
 
 # Social widget
