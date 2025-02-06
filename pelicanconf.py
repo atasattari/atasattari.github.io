@@ -38,17 +38,16 @@ STATIC_PATHS = ['pictures']
 
 # Blogroll
 LINKS = (
-    ("Linkdin", "https://www.linkedin.com/in/ata-sattari"),
     ("SuperCDMS", "https://supercdms.slac.stanford.edu/"),
     ("SNOLAB", "https://www.snolab.ca/"),
     ("McDonald Institute", "https://mcdonaldinstitute.ca/"),
 )
 
 # Social widget
-# SOCIAL = (
-#     ("You can add links in your config file", "#"),
-#     ("Another social link", "#"),
-# )
+SOCIAL = (
+    ("Linkdin", "https://www.linkedin.com/in/ata-sattari"),
+    ("Gmail", "mailto:atasattari@gmail.com")
+    )
 
 DEFAULT_PAGINATION = 10
 

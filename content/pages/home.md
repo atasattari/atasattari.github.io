@@ -2,13 +2,65 @@ Title:
 URL:
 save_as: index.html
 
+<div style="display: flex; justify-content: center; align-items: center; text-align: left; max-width: 1200px; margin: auto;">
+    <div style="flex: 2;">
+            <img src="../pictures/Ata.png" width="100%">
+    </div>
+    <div style="flex: 3; padding-left: 10px;">
+        <h3>Ph.D. in Astroparticle Physics</h3>
+        <ul>
+            <li>University of Toronto - 2025.</li>
+            <li>SuperCDMS collaboration member.</li>
+            <li>Dark matter - cryogenic detectors.</li>
+            <li>Simulation - data analysis - statistics.</li>
+        </ul>
+        <h3>B.Sc. in Physics and Mathematics</h3>
+        <ul>
+            <li>University of Tehran - 2018</li>
+        </ul>
+        <h3>Contact</h3>
+        <ul>
+            <li>Email: atasattari [at] gmail [dot] com</li>
+            <li>Happy to be in touch! Please use "GitHub-page" in the title.</li>
+        </ul>  
+    </div>
+</div>
 
-# Hello! This is Ata. 
-<img src="../pictures/Ata_wide.png" width="100%" style="display: block; margin: auto;">
+<!-- # Hello! This is Ata.  -->
+<!-- <img src="../pictures/Ata_wide.png" width="100%" style="display: block; margin: auto;"> -->
 <!-- <img src="../pictures/Ata_wide.png" width="60%" > -->
 <!-- ![alt text](../pictures/Ata_wide.png){width=40%; align-items= center} -->
 
-I hold a PhD in physics from the University of Toronto. My projects mostly focused on  <u>simulations </u>,  <u>data analysis </u>, and  <u>statistics </u> for the dark matter search endeavors of the SuperCDMS collaboration. I was lucky be supervised by:
+<!-- Ph.D. in Astroparticle physics:
+
+- University of Toronto - 2025.
+- SuperCDMS collaboration member.
+- Dark matter - cryogenic detectors.
+- Simulation - data analysis - statistics.
+
+B.Sc. in physics and mathematics:
+
+- University of Tehran - 2018
+
+Contact:
+
+- atasattari {at} gmail {dot} com
+- Happy to be in touch! Please use "GitHub-page" in the title. -->
+
+<br/>
+<br/>
+<br/>
+
+<!-- Before the physics life:
+
+- Professional swimmer - competed in national youth tournaments in Iran.
+- Played Dota2 - reached rank 800 North America -->
+
+<!-- BSc in physics and mathematics | University of Toronto | Dark matter search 
+
+
+
+I hold a PhD in physics from the University of Toronto. My projects mostly focused on <u>simulations</u>, <u>data analysis</u>, and  <u>statistics</u> for the dark matter search endeavors of the SuperCDMS collaboration. I was lucky to be supervised by:
 
 - [Miriam Diamond](https://mcdonaldinstitute.ca/miriam-diamond/)
 - [Ziqing Hong](https://mcdonaldinstitute.ca/app-opportunities/opportunities/ziqing-hong/)
@@ -20,7 +72,7 @@ Before moving to Canada, I got my BSc in physics and mathematics at the Universi
 
 Before my physics life, I was a professional swimmer and won multiple national youth tournaments across Iran. I was also an avid Dota2 player for several years and reached rank 800 in North America during COVID.
 
-
+ -->
 
 <!-- I defended my PhD in astroparticle physics at the University of Toronto in Dec 2024 under Prof. [Miriam Diamond](https://mcdonaldinstitute.ca/miriam-diamond/), [Ziqing Hong](https://mcdonaldinstitute.ca/app-opportunities/opportunities/ziqing-hong/), and [Pekka Sinervo](https://sites.physics.utoronto.ca/pekkasinervo). My projects primarily focused on simulations, data analysis, and statistical methods:
 
