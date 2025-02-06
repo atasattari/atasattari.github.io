@@ -23,7 +23,7 @@ body {
 }
 
 .tag-0 {
-    font-size: 20pt;
+    font-size: 16pt;
 }
 
 .tag-1 {
@@ -50,8 +50,7 @@ body {
 }
 
 #sidebar {
-    padding-top: 75px;
-    font-size: 20px;
+    padding-top: 40px;
     -ms-word-break: break-all;
     word-break: break-all;
     word-break: break-word;
