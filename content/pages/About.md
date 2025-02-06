@@ -3,7 +3,7 @@ Date: 2024-07-03
 Author: Ata Sattari
 
 
-### 2025 - Ph.D. in Physics | University of Toronto  
+### 2025 - Ph.D. in Physics | University of Toronto | SuperCDMS 
 
 #### Supervisors
 
@@ -11,8 +11,9 @@ Author: Ata Sattari
 - [Ziqing Hong](https://mcdonaldinstitute.ca/app-opportunities/opportunities/ziqing-hong/)
 - [Pekka Sinervo](https://sites.physics.utoronto.ca/pekkasinervo)
 
-#### Research  
+#### Research
 
+- Astroparticle physics - Cryogenic detectors.
 - [Measurement](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.122002) of the ionization yield in germanium.
 - [Solar axions](https://www.snolab.ca/wp-content/uploads/2021/08/SuperCDMS-Axion-like-searches-Ata-Sattari.pdf) & SuperCDMS SNOLAB.
 - Light dark matter in the lab.
